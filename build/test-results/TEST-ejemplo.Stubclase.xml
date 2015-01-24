@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejemplo.Stubclase" tests="1" skipped="0" failures="0" errors="0" timestamp="2014-12-17T20:31:01" hostname="dev10-PC" time="0.028">
+  <properties/>
+  <testcase name="test" classname="ejemplo.Stubclase" time="0.028"/>
+  <system-out><![CDATA[element
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejemplo.SystemManagerTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2014-12-17T20:31:01" hostname="dev10-PC" time="0.018">
+  <properties/>
+  <testcase name="testShouldDeleteStartRemoteSystemWithValidUserAndInvalidSystem" classname="ejemplo.SystemManagerTest" time="0.008"/>
+  <testcase name="testShouldStartRemoteSystemWithValidUserAndSystem" classname="ejemplo.SystemManagerTest" time="0.002"/>
+  <testcase name="testShouldFailStartRemoteSystemWithInvalidUser" classname="ejemplo.SystemManagerTest" time="0.002"/>
+  <testcase name="testShouldFailStartRemoteSystemWithValidUserAndInvalidSystem" classname="ejemplo.SystemManagerTest" time="0.001"/>
+  <testcase name="testShouldDeleteRemoteSystemWithValidUserAndSystem" classname="ejemplo.SystemManagerTest" time="0.001"/>
+  <testcase name="testShouldFailDeleteRemoteSystemWithInvalidUser" classname="ejemplo.SystemManagerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

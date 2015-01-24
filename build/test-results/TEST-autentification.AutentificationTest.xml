@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="autentification.AutentificationTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2014-12-17T20:31:01" hostname="dev10-PC" time="0.241">
+  <properties/>
+  <testcase name="testAuthPlain" classname="autentification.AutentificationTest" time="0.195"/>
+  <testcase name="testAddition" classname="autentification.AutentificationTest" time="0.001"/>
+  <testcase name="testAuthHashMD5" classname="autentification.AutentificationTest" time="0.028"/>
+  <testcase name="testAuthManagerValidate" classname="autentification.AutentificationTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

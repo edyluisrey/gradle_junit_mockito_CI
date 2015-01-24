@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejemplo.InterfaceTesting" tests="8" skipped="0" failures="0" errors="0" timestamp="2014-12-17T20:31:01" hostname="dev10-PC" time="0.089">
+  <properties/>
+  <testcase name="testMyMethod_False[0]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_True[0]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_False[1]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_True[1]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_False[0]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_True[0]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_False[1]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <testcase name="testMyMethod_True[1]" classname="ejemplo.InterfaceTesting" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

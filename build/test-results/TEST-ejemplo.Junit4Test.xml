@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejemplo.Junit4Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2014-12-17T20:31:01" hostname="dev10-PC" time="0.001">
+  <properties/>
+  <testcase name="testOut[0]" classname="ejemplo.Junit4Test" time="0.0"/>
+  <testcase name="testOut[1]" classname="ejemplo.Junit4Test" time="0.0"/>
+  <system-out><![CDATA[Parameterized test1 10
+Parameterized test2 20
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
